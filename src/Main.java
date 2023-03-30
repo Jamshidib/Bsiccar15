@@ -6,5 +6,17 @@ public class Main {
         audi.color="balck";
         audi.model="A3";
         audi.power="5000cc";
+
+        Engine X =new Engine();
+        X.cylinders="8";
+        X.size="1234cc";
+        X.weight="6453K";
+
+
+        lights neon =new lights();
+        neon.color="red";
+        neon.intensity="15cm";
+        neon.size="76751L";
+
     }
 }
